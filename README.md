@@ -1,4 +1,4 @@
-# 🚗 ANPR Vehicle Access Control System
+# 🌟 Gold Award Winner: 🚗 ANPR Vehicle Access Control System
 
 An AI-powered Automatic Number Plate Recognition (ANPR) system for vehicle access control with fraud detection capabilities.
 
